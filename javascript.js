@@ -11,9 +11,15 @@ jsonfile.readFile(file, function (err, obj) {
   console.dir(obj)
 })
 
-var fname = {
-    name: "Kali",
-    age: "19",
-}
+// var fname = {
+//     name: "Kali",
+//     age: "19",
+// }
 
 // console.log(fname);
+
+// var JSONItems = [];
+// $.getJSON( "data.json", function( data){
+//   JSONItems = data;
+//   console.log(JSONItems);
+// });
